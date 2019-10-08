@@ -1,0 +1,12 @@
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\PostcodeESIO.exe.config
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\PostcodeESIO.exe
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\PostcodeESIO.pdb
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\RestSharp.dll
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\bin\Debug\RestSharp.xml
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\obj\Debug\PostcodeESIO.csprojAssemblyReference.cache
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\obj\Debug\PostcodeESIO.csproj.CoreCompileInputs.cache
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\obj\Debug\PostcodeESIO.csproj.CopyComplete
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\obj\Debug\PostcodeESIO.exe
+C:\Users\Canute Gilzene\Documents\Engineering_40\Week9\PostcodeESIO\PostcodeESIO\obj\Debug\PostcodeESIO.pdb

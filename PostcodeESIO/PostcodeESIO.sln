@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcodeESIO", "PostcodeESIO\PostcodeESIO.csproj", "{BA353CB3-1FB0-487F-A8DF-90B987F1667F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcodeESIO.test", "PostcodeESIO.test\PostcodeESIO.test.csproj", "{24D85FE2-6DDF-4350-AB11-DF8EE66E23C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA353CB3-1FB0-487F-A8DF-90B987F1667F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA353CB3-1FB0-487F-A8DF-90B987F1667F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA353CB3-1FB0-487F-A8DF-90B987F1667F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA353CB3-1FB0-487F-A8DF-90B987F1667F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D85FE2-6DDF-4350-AB11-DF8EE66E23C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D85FE2-6DDF-4350-AB11-DF8EE66E23C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D85FE2-6DDF-4350-AB11-DF8EE66E23C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D85FE2-6DDF-4350-AB11-DF8EE66E23C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D852628-A211-47A2-99F0-56DE55AEDB2D}
+	EndGlobalSection
+EndGlobal
